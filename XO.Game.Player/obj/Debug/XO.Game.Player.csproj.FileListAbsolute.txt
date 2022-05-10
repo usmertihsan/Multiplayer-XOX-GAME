@@ -1,0 +1,12 @@
+C:\Users\merti\source\repos\XO.Game\XO.Game.Player\bin\Debug\XO.Game.Player.dll
+C:\Users\merti\source\repos\XO.Game\XO.Game.Player\bin\Debug\XO.Game.Player.pdb
+C:\Users\merti\source\repos\XO.Game\XO.Game.Player\obj\Debug\XO.Game.Player.csproj.CoreCompileInputs.cache
+C:\Users\merti\source\repos\XO.Game\XO.Game.Player\obj\Debug\XO.Game.Player.dll
+C:\Users\merti\source\repos\XO.Game\XO.Game.Player\obj\Debug\XO.Game.Player.pdb
+C:\Users\merti\source\repos\XO.Game\XO.Game.Player\obj\Debug\XO.Game.Player.csproj.AssemblyReference.cache
+C:\Users\merti\Desktop\XO.Game\XO.Game.Player\bin\Debug\XO.Game.Player.dll
+C:\Users\merti\Desktop\XO.Game\XO.Game.Player\bin\Debug\XO.Game.Player.pdb
+C:\Users\merti\Desktop\XO.Game\XO.Game.Player\obj\Debug\XO.Game.Player.csproj.AssemblyReference.cache
+C:\Users\merti\Desktop\XO.Game\XO.Game.Player\obj\Debug\XO.Game.Player.csproj.CoreCompileInputs.cache
+C:\Users\merti\Desktop\XO.Game\XO.Game.Player\obj\Debug\XO.Game.Player.dll
+C:\Users\merti\Desktop\XO.Game\XO.Game.Player\obj\Debug\XO.Game.Player.pdb
